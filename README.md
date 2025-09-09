@@ -1,6 +1,3 @@
-# Challenge-Amigo-Secreto
-
-
 # 🎁 Challenge Amigo Secreto
 
 Aplicación web sencilla para organizar y sortear un  **amigo secreto** .
